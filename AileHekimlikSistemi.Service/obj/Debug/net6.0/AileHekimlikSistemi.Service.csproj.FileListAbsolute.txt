@@ -1,0 +1,15 @@
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\bin\Debug\net6.0\AileHekimlikSistemi.Service.deps.json
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\bin\Debug\net6.0\AileHekimlikSistemi.Service.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\bin\Debug\net6.0\AileHekimlikSistemi.Service.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.csproj.AssemblyReference.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.AssemblyInfoInputs.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.AssemblyInfo.cs
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\refint\AileHekimlikSistemi.Service.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\ref\AileHekimlikSistemi.Service.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\bin\Debug\net6.0\AileHekimlikSistemi.Core.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\bin\Debug\net6.0\AileHekimlikSistemi.Core.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Service\obj\Debug\net6.0\AileHekimlikSistemi.Service.csproj.CopyComplete

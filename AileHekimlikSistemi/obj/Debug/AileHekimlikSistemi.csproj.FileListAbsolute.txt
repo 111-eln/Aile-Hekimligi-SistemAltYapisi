@@ -1,0 +1,3 @@
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi\obj\Debug\AileHekimlikSistemi.csproj.AssemblyReference.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi\obj\Debug\AileHekimlikSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi\obj\Debug\AileHekimlikSistemi.csproj.CoreCompileInputs.cache

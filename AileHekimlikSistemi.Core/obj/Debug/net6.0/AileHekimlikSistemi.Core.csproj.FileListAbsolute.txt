@@ -1,0 +1,12 @@
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\bin\Debug\net6.0\AileHekimlikSistemi.Core.deps.json
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\bin\Debug\net6.0\AileHekimlikSistemi.Core.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\bin\Debug\net6.0\AileHekimlikSistemi.Core.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\AileHekimlikSistemi.Core.csproj.AssemblyReference.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\AileHekimlikSistemi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\AileHekimlikSistemi.Core.AssemblyInfoInputs.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\AileHekimlikSistemi.Core.AssemblyInfo.cs
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\AileHekimlikSistemi.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\AileHekimlikSistemi.Core.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\refint\AileHekimlikSistemi.Core.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\AileHekimlikSistemi.Core.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Core\obj\Debug\net6.0\ref\AileHekimlikSistemi.Core.dll

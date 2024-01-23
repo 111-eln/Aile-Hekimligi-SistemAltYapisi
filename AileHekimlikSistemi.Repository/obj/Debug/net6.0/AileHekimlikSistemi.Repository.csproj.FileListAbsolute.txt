@@ -1,0 +1,17 @@
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\bin\Debug\net6.0\AileHekimlikSistemi.Repository.deps.json
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\bin\Debug\net6.0\AileHekimlikSistemi.Repository.runtimeconfig.json
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\bin\Debug\net6.0\AileHekimlikSistemi.Repository.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\bin\Debug\net6.0\AileHekimlikSistemi.Repository.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\bin\Debug\net6.0\AileHekimlikSistemi.Core.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\bin\Debug\net6.0\AileHekimlikSistemi.Core.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.csproj.AssemblyReference.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.AssemblyInfoInputs.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.AssemblyInfo.cs
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.csproj.CopyComplete
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\refint\AileHekimlikSistemi.Repository.dll
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.pdb
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\AileHekimlikSistemi.Repository.genruntimeconfig.cache
+C:\Users\user\AileHekimlikSistemi\AileHekimlikSistemi\AileHekimlikSistemi.Repository\obj\Debug\net6.0\ref\AileHekimlikSistemi.Repository.dll
